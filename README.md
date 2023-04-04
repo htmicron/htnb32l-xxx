@@ -8,11 +8,12 @@
 
 iMCP – HTNBAT32L-XXX is a highly compact and low-power wireless communication MCO/SiP featuring Qualcomm QCX-212 LTE IoT Modem supporting single-mode 3GPP Release 14 Cat. NB2 IoT connectivity.
 
-<hr>
 <br/>
-
+<hr>
 
 ## Main Topics
+
+<br/>
 
 * Datasheet: HERE.
 * iMCP – HTNBAT32L-XXX Documentation: HERE
@@ -25,12 +26,10 @@ iMCP – HTNBAT32L-XXX is a highly compact and low-power wireless communication 
 
 To request access to HTNB32L-XXX SDK, please contact imcp@htmicron.com.
 
-<br/>
 <hr>
 
 ## Commercial Contact
 
 For commercial matters, please contact imcp@htmicron.com.br.
 
-<br/>
 <hr>
