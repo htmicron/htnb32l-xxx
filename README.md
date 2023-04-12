@@ -7,5 +7,6 @@ PCB examples deseign for iMCP HTNB32L-XXX that are currently available:
 | PCB Example |Brief |
 |:-------------------|:---------------------------------------------------------------|
 | [Breakout Board](HTNB32L-XXX-BreakouBoard-V2) | Breakout board for iMCP HTNB32L-XXX. |
+| MQTT Demo Board | *In progress...* |
 
 </div>
