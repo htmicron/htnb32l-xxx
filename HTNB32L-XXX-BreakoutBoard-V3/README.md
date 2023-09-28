@@ -1,7 +1,7 @@
 # iMCP HTNB32L-XXX Breakout Board V3
 
 <div align="center">
-  <img src="HTNB32L-XXX-BreakoutBoard-V3-3D.PNG">
+  <img src="HTNB32L-XXX-BreakoutBoard-V3-3D.png">
 </div>
 
 <hr>
