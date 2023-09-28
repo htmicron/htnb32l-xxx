@@ -16,7 +16,6 @@ iMCP HTNBAT32L-XXX is a highly compact and low-power wireless communication MCO/
 <br/>
 
 * Datasheet (Preliminary): *in progress*
-* iMCP HTNBAT32L-XXX Documentation: [HERE](https://github.com/htmicron/htnb32l-xxx/tree/documents)
 * PCB Design Examples: [HERE](https://github.com/htmicron/htnb32l-xxx/tree/pcb_examples)
 
 <br/>
@@ -24,7 +23,7 @@ iMCP HTNBAT32L-XXX is a highly compact and low-power wireless communication MCO/
 
 ## Software Development Kit
 
-To request access to HTNB32L-XXX SDK, please contact imcp@htmicron.com.
+To request access to HTNB32L-XXX SDK, which includes firmware source code and technical documentation, please contact imcp@htmicron.com.
 
 <hr>
 
